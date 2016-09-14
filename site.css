@@ -1,0 +1,13 @@
+.blue{
+  background-color:#003b6f;
+  padding: 10px;
+  border: 2px white dotted;
+}
+
+.white{
+  color:white;
+}
+
+.dead-space{
+  padding-top:5%;
+}
